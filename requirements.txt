@@ -1,0 +1,5 @@
+pandas==1.5.3
+import pandas as pd
+import string
+import re
+from collections import Counter
