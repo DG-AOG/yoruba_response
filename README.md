@@ -20,9 +20,9 @@ To clean and analyze Yoruba text data for potential use in language modeling or 
 - Performed word frequency analysis
 
 ## 📈 Output Sample
-- Total words: `xxxxx`
-- Total sentences: `xxxxx`
-- Top 20 Yoruba words with frequency in tabular form
+- Total words: `29,672`
+- Total sentences: `1,363`
+- Top 20 most common Yoruba words with frequency in tabular form
 
 ## 🔗 Google Colab Notebook
 [Open in Colab](https://colab.research.google.com/drive/1iwogoIgJr6Gu4WvgkGEhsWYlAmLp8l6o?usp=sharing)
